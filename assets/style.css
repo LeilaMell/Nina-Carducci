@@ -184,6 +184,12 @@ body {
 
 }
 
+.coordonnees{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
 .service {
 	background-color: white;
 	max-width: 390px;
