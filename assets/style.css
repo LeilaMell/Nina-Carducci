@@ -181,12 +181,11 @@ body {
 	justify-content: space-between;
 	display: flex;
 	padding : 2em 0;
-
 }
 
-.coordonnees{
+.coordonnees {
+	margin-top: -30px;
 	display: flex;
-	flex-direction: column;
 	justify-content: center;
 }
 
